@@ -1,0 +1,2 @@
+[config]
+SCM_SCRIPT_GENERATOR_ARGS=--aspNetCore "D:\y4t2\GP2\MYSbot\MYSbot.csproj"
